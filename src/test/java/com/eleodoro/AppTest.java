@@ -17,5 +17,6 @@ public class AppTest
     {
         assertTrue( true );
         System.out.println("pimentel lindo");
+        System.out.println("testando o terceiro comite");
     }
 }

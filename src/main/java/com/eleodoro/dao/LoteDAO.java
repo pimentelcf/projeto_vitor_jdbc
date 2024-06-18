@@ -1,5 +1,5 @@
 package com.eleodoro.dao;
 
-public class NumeracaoDAO {
+public class LoteDAO {
     
 }

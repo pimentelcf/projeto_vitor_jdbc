@@ -33,4 +33,6 @@ public class Conexao {
              }
     }
 
+    public Connection
+
 }
